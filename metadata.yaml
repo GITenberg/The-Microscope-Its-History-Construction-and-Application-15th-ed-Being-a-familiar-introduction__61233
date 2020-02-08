@@ -1,0 +1,27 @@
+_repo: The-Microscope-Its-History-Construction-and-Application-15th-ed-Being-a-familiar-introduction__61233
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hogg, Jabez
+    birthdate: 1817
+    deathdate: 1899
+    gutenberg_agent_id: '51320'
+    url: http://www.gutenberg.org/2009/agents/51320
+description: ''
+gutenberg_issued: '2020-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61233'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history'
+- !lcsh 'Microscopy'
+- !lcc 'QH'
+- GITenberg
+title: "The Microscope. Its History, Construction, and Application 15th ed.\r\nBeing\
+  \ a familiar introduction to the use of the instrument, and the study of microscopical\
+  \ science"
+url: http://www.gutenberg.org/ebooks/61233
